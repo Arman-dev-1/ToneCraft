@@ -26,6 +26,13 @@ A full-stack application with React frontend and Node.js Express backend that ad
 - npm 8.x or higher
 - Mistral AI API key
 
+### Clone Repository
+
+```bash
+git clone https://github.com/Arman-dev-1/ToneCraft.git
+cd ToneCraft
+```
+
 ### Backend Setup
 
 1. Navigate to the backend directory:
@@ -146,10 +153,6 @@ Remember to set the appropriate environment variables on your backend hosting se
 3. Commit your changes: `git commit -m 'Add some amazing feature'`
 4. Push to the branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
